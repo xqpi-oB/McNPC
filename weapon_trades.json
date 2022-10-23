@@ -1,0 +1,44 @@
+{
+  "tiers": [
+	{
+	  "trades" : [
+       {
+          "wants": [
+            {
+              "item": "Minecraft:cobblestone",
+              "quantity": {
+                "min": 32,
+                "max": 32
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:wooden_sword",
+			  "quantity": 1
+            }
+          ],
+		  "reward_exp": false
+		},
+       {
+          "wants": [
+            {
+              "item": "Minecraft:cobblestone",
+              "quantity": {
+                "min": 32,
+                "max": 32
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:wooden_axe",
+			  "quantity": 1
+            }
+          ],
+		  "reward_exp": false
+		}
+		]
+	  }
+  ]
+}

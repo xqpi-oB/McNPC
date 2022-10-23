@@ -1,0 +1,80 @@
+{
+	"tiers": [
+		{
+			"trades": [
+				{
+					"wants": [
+						{
+							"item": "Minecraft:cobblestone",
+							"quantity": {
+								"min": 32,
+								"max": 32
+							}
+						}
+					],
+					"gives": [
+						{
+							"item": "minecraft:leather_helmet",
+							"quantity": 1
+						}
+					],
+					"max_uses": -1
+				},
+				{
+					"wants": [
+						{
+							"item": "Minecraft:cobblestone",
+							"quantity": {
+								"min": 32,
+								"max": 32
+							}
+						}
+					],
+					"gives": [
+						{
+							"item": "minecraft:leather_chestplate",
+							"quantity": 1
+						}
+					],
+					"max_uses": -1
+				},
+				{
+					"wants": [
+						{
+							"item": "Minecraft:cobblestone",
+							"quantity": {
+								"min": 32,
+								"max": 32
+							}
+						}
+					],
+					"gives": [
+						{
+							"item": "minecraft:leather_leggings",
+							"quantity": 1
+						}
+					],
+					"max_uses": -1
+				},
+				{
+					"wants": [
+						{
+							"item": "Minecraft:cobblestone",
+							"quantity": {
+								"min": 32,
+								"max": 32
+							}
+						}
+					],
+					"gives": [
+						{
+							"item": "minecraft:leather_boots",
+							"quantity": 1
+						}
+					],
+					"max_uses": -1
+				}
+			]
+		}
+	]
+}

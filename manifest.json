@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "CustomTrades_BP by xq",
+        "name": "CustomTrades_BP by xq",
+        "uuid": "da9c5430-e97a-4b46-8487-7b5ed942413f",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 18, 30 ]
+    },
+    "modules": [
+        {
+            "description": "CustomTrades_BP by xq",
+            "type": "data",
+            "uuid": "28434a62-94f4-4cdb-83d6-08d16d03aa39",
+            "version": [0, 0, 1]
+        }
+    ]
+}
